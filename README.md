@@ -1,5 +1,5 @@
 <h1 align="center">Hola encantando que estes aquí Soy Kerwin García Gómez</h1>
-<h3 align="center">Soy un desarrollador apasionado , me gusta la tecnología y me la paso picando código.</h3>
+<h3 align="center">desarrollador apasionado , me gusta la tecnología y me la paso picando código.</h3>
 
 - 💬 Ask me about **Html,css,JavaScript,Java,C# .Net,Php.**
 
