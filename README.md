@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido!!</h1>
-<h3 align="center">Soy desarrollador, me gusta la tecnología y siempre me la paso picando código.</h3>
+<h3 align="center">Desarrollador de Software 💻, me gusta la tecnología y siempre saco fuego 🔥 al teclado escribiendo codigo.</h3>
 <h3 align="center">"-THE MISSING PIECE OF THE JIGSAW PUZZLE-"</h3>
 
 - 💬 Ask me about **Html,css,JavaScript,Java,C# .Net,Php.**
