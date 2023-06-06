@@ -110,15 +110,15 @@
  
 </p>
 
- <div align="left">
+ <p align="left">
   <h3>Backend</h3>
- </div>
- <div align="center">
+ </p>
+ <p align="center">
   <h3>Backend</h3>
- </div>
-<div align="right">
+ </p>
+<p align="right">
   <h3>Backend</h3>
- </div>
+ </p>
 
 
 
