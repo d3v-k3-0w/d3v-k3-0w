@@ -1,5 +1,8 @@
-# Bienvenid@, Happy Coding!! 
+
+<div align="right">
+# Bienvenid@, Happy Coding!!
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxODljc2Npemw2a21zbjN6ZG42a3E4Y3BtcXZ5MGwyaGRhYWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oGT95WukVFcRO1OFZ/giphy.webp" width="120"/> 
+</div>
 
 
 <h3 align="center">"-THE MISSING PIECE OF THE JIGSAW PUZZLE-"</h3>
