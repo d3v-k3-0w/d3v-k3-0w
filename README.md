@@ -1,13 +1,13 @@
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex-grow: 1; text-align: center;">
-    Bienvenid@, Happy Coding!!
+    <h1>Bienvenid@, Happy Coding!!</h1>
   </div>
-  <div>
+  
+</div>
+<div align=""rigth">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxODljc2Npemw2a21zbjN6ZG42a3E4Y3BtcXZ5MGwyaGRhYWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oGT95WukVFcRO1OFZ/giphy.webp" width="120"/>
   </div>
-</div>
-
 <h3 align="center">"-THE MISSING PIECE OF THE JIGSAW PUZZLE-"</h3>
 
 - 💬 Ask me about **Html,css,JavaScript,Java,Php.**
