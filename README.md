@@ -1,5 +1,6 @@
-<h1 align="center">Bienvenido!!</h1>
-<h3 align="center">Desarrollador de Software 💻, me gusta la tecnología y saco fuego al teclado🔥 </h3>
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxODljc2Npemw2a21zbjN6ZG42a3E4Y3BtcXZ5MGwyaGRhYWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oGT95WukVFcRO1OFZ/giphy.webp" width="120"> Bienvenid@, Happy Coding!! 
+
+
 <h3 align="center">"-THE MISSING PIECE OF THE JIGSAW PUZZLE-"</h3>
 
 - 💬 Ask me about **Html,css,JavaScript,Java,Php.**
@@ -10,6 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/kerwin-garcia-gomez-5b06ba242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerwin garcia gomez" height="30" width="40" /></a>
 </p>
+
+## Tecnologias: ✨
 
 <div align="left">
   <h3>Arquitectura de Datos</h3>
@@ -33,7 +36,7 @@
   </a> 
  </div>
 
- <div align="center">
+ <div align="left">
   <h3>BackEnd</h3>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -66,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a> 
  </div>
- <div align="right">
+ <div align="left">
   <h3>FrontEnd</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -92,7 +95,10 @@
    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
+  
  </div>
+
+
  
 
 
