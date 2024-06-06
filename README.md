@@ -1,5 +1,5 @@
 
-<table style="width:100%">
+<table style="width:100%, border:none">
   <tr>
     <td style="text-align:center;font-weight:bold">## Bienvenid@, Happy Coding!!</td>
     <td style="text-align:right;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxODljc2Npemw2a21zbjN6ZG42a3E4Y3BtcXZ5MGwyaGRhYWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oGT95WukVFcRO1OFZ/giphy.webp" width="100"/></td>
