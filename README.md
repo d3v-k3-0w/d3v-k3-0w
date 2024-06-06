@@ -1,7 +1,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex-grow: 1; text-align: center;">
-    <h1>Bienvenid@, Happy Coding!!</h1>
+    Bienvenid@, Happy Coding!!
   </div>
   <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxODljc2Npemw2a21zbjN6ZG42a3E4Y3BtcXZ5MGwyaGRhYWNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oGT95WukVFcRO1OFZ/giphy.webp" width="120"/>
